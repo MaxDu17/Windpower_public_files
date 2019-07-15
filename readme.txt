@@ -1,0 +1,2 @@
+This is an abridged project repository. The abridgement was done due to the very confusing workflow that was developed, so only crucial aspects of the repository were copied.
+Forecast data (4tb) is stored on a data server. For more information, contact maxressb@gmail.com 

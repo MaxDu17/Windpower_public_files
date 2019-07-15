@@ -1,0 +1,2 @@
+cell dimension, learning rate, past data points
+the 2 best children are saved
